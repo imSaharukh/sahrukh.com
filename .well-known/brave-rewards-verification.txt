@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: saharukh.com
-Token: 02e97223f166667c7fab75c9cbe23181aa39474f3116d6dfea0b694deb2cf2f0
